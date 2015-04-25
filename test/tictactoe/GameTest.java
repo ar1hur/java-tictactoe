@@ -116,7 +116,7 @@ public class GameTest
         
         this.game.start();
         
-        this.game.move("d");
+        this.game.move("f");
         this.game.move("d");
     }
 

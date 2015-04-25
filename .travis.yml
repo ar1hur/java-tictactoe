@@ -1,2 +1,4 @@
-script: ant -f .
+script: ant
 language: java
+jdk:
+  - oraclejdk8

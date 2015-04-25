@@ -1,1 +1,2 @@
+script: ant -f .
 language: java
